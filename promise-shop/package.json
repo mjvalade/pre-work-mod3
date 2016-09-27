@@ -1,0 +1,14 @@
+{
+  "name": "promise-shop",
+  "version": "1.0.0",
+  "description": "workshop for ES6 and promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaryJane Valade",
+  "license": "ISC",
+  "dependencies": {
+    "q-io": "^1.13.2"
+  }
+}
