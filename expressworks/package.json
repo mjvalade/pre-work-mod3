@@ -1,0 +1,17 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "Express workshop for Mod3 pre-work",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaryJane Valade",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.11.2",
+    "jade": "^1.11.0",
+    "stylus": "^0.54.5"
+  }
+}
